@@ -1,4 +1,4 @@
-# 🧮 Loan Default Analysis Dashboard
+# 🧮 Loan Default Analysis
 
 This project presents a detailed dashboard analyzing loan default patterns using real-world inspired data. Key variables include loan amount, credit score, income, age, employment status, and more.
 
